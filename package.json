@@ -11,6 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/asnelling/ng2validators.git"
   },
+  "files": [
+    "index.js",
+    "index.js.map",
+    "index.d.ts"
+  ],
   "author": "Addison Snelling <asnell@cs.utexas.edu>",
   "license": "MIT",
   "bugs": {
