@@ -1,3 +1,4 @@
-*
-!*.js.map
-!*.js
+/.idea
+*.ts
+!*.d.ts
+*.json
