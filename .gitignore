@@ -3,6 +3,8 @@
 # compiled output
 /bundles
 *.js
+*.js.map
+*.d.ts
 
 # dependencies
 /node_modules
